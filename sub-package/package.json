@@ -1,0 +1,6 @@
+{
+  "name": "sub-package",
+  "devDependencies": {
+    "prettier": "^3.8.1"
+  }
+}
